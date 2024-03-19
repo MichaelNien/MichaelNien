@@ -5,7 +5,8 @@
     "package_name": "tw.com.ecpay.app.gwpay",
     "sha256_cert_fingerprints": [
       "E7:DA:CF:BC:CA:5E:E0:2F:EB:D4:08:35:EF:8E:8E:35:E7:3D:99:9E:EA:27:44:4F:A2:65:46:A3:33:DB:F7:62",
-      "3B:C1:16:22:12:D7:85:25:A1:8F:DF:82:04:DF:85:E2:0B:56:2D:85:61:28:4B:0D:3F:0C:A2:7A:A4:0E:9F:79"]
+      "3B:C1:16:22:12:D7:85:25:A1:8F:DF:82:04:DF:85:E2:0B:56:2D:85:61:28:4B:0D:3F:0C:A2:7A:A4:0E:9F:79",
+	  "38:88:12:3A:C1:D6:8B:7B:68:98:E1:DF:4F:CA:8E:EA:F2:3F:05:FD:AC:68:05:E2:A2:FA:8A:C0:51:4A:3E:9B"]
   }
 },
 {
@@ -22,7 +23,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "tw.com.ecpay.gwpay.app",
+    "package_name": "tw.com.ecpay.app.gwpay.beta",
     "sha256_cert_fingerprints": [
       "E7:DA:CF:BC:CA:5E:E0:2F:EB:D4:08:35:EF:8E:8E:35:E7:3D:99:9E:EA:27:44:4F:A2:65:46:A3:33:DB:F7:62",
       "3B:C1:16:22:12:D7:85:25:A1:8F:DF:82:04:DF:85:E2:0B:56:2D:85:61:28:4B:0D:3F:0C:A2:7A:A4:0E:9F:79"]
